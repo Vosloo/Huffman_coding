@@ -1,0 +1,6 @@
+.vscode
+build/*.txt
+data/decoded*
+data/*.bin
+*.zip
+*.sh
