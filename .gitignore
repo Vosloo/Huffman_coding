@@ -1,5 +1,6 @@
 .vscode
 build/*.txt
+build/main
 data/decoded*
 data/*.bin
 *.zip
